@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;   
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: aquamarine;
+    margin: 2rems;
+    height: 3rems;
+    line-height: 3rem;
+}
+h2{
+text-align: center;
+margin-top: 4rem;
+}
+div{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+      padding: 3rem;
+    gap: 8rem;
+    margin-top: 3rem;
+}
+.color {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 5rem;
+  height: 5rem;
+  text-align: center;
+  margin-top: 2rem;
+  align-content: center;
+
+}
+.color1{  border: 1px solid black;
+    border-radius: 10px;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    margin-top: 2rem;
+    align-content: center;}
+#red{
+    background-color: red;
+}
+#random{
+    background-color:cornsilk;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color:blue;
+}
